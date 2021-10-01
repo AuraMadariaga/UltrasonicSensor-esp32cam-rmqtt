@@ -1,2 +1,2 @@
-# UltrasonicSensor-esp32cam-rmqtt
+# UltrasonicSensor-Esp32cam-Mqtt
 Se crea es te repositorio 
